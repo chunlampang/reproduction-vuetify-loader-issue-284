@@ -1,0 +1,7 @@
+@use 'vuetify/settings' with (
+    $typography: (
+        'button': (
+            'text-transform': none
+        )
+    )
+);
