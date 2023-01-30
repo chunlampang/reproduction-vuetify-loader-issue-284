@@ -1,24 +1,3 @@
-# test
+# reproduction-vuetify-loader-issue-284
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [vuetifyjs/vuetify-loader#284](https://github.com/vuetifyjs/vuetify-loader/issues/284).
